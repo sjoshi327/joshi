@@ -1,0 +1,236 @@
+/* background color*/
+
+body {
+    background-color: white;
+}
+
+
+/*font size for heading h1*/
+
+.h1 {
+    font-size: 25px;
+    text-align: center;
+    background-color: grey;
+}
+
+.photo {
+    background: grey;
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+
+p {
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+}
+
+.foot {
+    background-color: grey;
+    margin-top: 260px;
+}
+
+.div1 img {
+    width: 80%;
+    height: 200px;
+    margin-bottom: -33%;
+}
+
+.grid_4 img {
+    width: 80%;
+    height: 250px;
+    padding-left: 30px;
+}
+
+.grid_4 h6 {
+    padding-left: 30px;
+}
+
+.divi {
+    text-align: center;
+}
+ .divi1 {
+    width: auto;
+    text-align: center;
+    margin-left: 190px;
+}
+.wrap {
+    min-width: 600px;
+    width: 100%;
+    margin: 0px 0px 0px;
+    font-size: 25px;
+    height: auto;
+    overflow: hidden;
+    float: initial;
+    word-spacing: 50px;
+}
+
+
+
+.short img {
+    width: 30px;
+    height: 30px;
+    margin-top: 70px;
+    margin-left:auto;
+}
+.address{
+    margin-top: 82px;
+}
+
+
+.im {
+    width: 95%;
+    height: 220px;
+    margin-top: 5px;
+}
+
+.content,
+aside {
+    height: 600px;
+}
+
+.content {
+
+    width: 80%;
+    height: 1000px;
+}
+
+aside ul {
+
+    list-style: none;
+    padding-left: 0
+}
+
+
+/* Style the links inside the navigation bar */
+
+.nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+/* Change the color of links on hover */
+
+.nav a:hover {
+    background-color: lightblue;
+    color: black;
+    text-decoration: underline;
+    font-size: 30;
+}
+
+
+/* Add a color to the active/current link */
+
+.nav a:active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
+.try {
+    margin-left: 0px;
+}
+
+.a {
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown: hover .dropdown-content {
+    display: block;
+}
+
+.hero {
+    font-size: 30px;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+
+    background-image: url("../image/image1.jpg");
+
+    background-size: 1600px 500px;
+    background-repeat: no-repeat;
+    color: white;
+
+    margin-left: 0px;
+    padding: 10px;
+}
+
+.wrap {
+    background-color: lightslategrey;
+}
+
+
+.footer1 {
+    width: 100%;
+    float: left;
+    background-color: grey;
+    margin-bottom: -8px;
+}
+
+.color {
+    background-color: grey;
+}
+
+.f1 {
+    width: 33%;
+    float: left;
+}
+
+.f2 {
+    width: 33%;
+    float: left;
+}
+
+.f3 {
+    height: 30px;
+    width: 33%;
+    float: right;
+}
+
+.f3 img {
+    width: 30px;
+    height: 30px;
+}
+
+.div {
+    width: 100%;
+    margin-top: -6%;
+}
+
+.div1 {
+    float: left;
+    width: 50%;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.div2 {
+    float: left;
+    width: 50%;
+    text-align: left;
+    margin-right: 10px;
+}
+
+.search {
+    float: right;
+}
